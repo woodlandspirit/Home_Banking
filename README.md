@@ -15,11 +15,11 @@ Para realizar este proyecto es necesario que tengas conocimientos en HTML y CSS.
 
 Acá encontrarán el resto de mis proyectos de la carrera de __Desarrollo Web Full Stack__ de Acámica, para el curso que inició en Mayo 2019.
 
-* __Proyecto 1:__ CV online
+* __Proyecto 1:__ [CV online](https://github.com/woodlandspirit/CV_online)
 * __Proyecto 2:__ Home Banking
-* __Proyecto 3:__ Rompecabezas
-* __Proyecto 4:__ Pixel Art
-* __Proyecto 5:__ Ciudad Zombie
+* __Proyecto 3:__ [Rompecabezas](https://github.com/woodlandspirit/Rompecabezas)
+* __Proyecto 4:__ [Pixel Art](https://github.com/woodlandspirit/Pixel-art)
+* __Proyecto 5:__ [Ciudad Zombie](https://github.com/woodlandspirit/Ciudad_Zombie)
 * __Proyecto 6:__ Reservando
 * __Proyecto 7:__ Encuestados
 * __Proyecto 8:__  Qué veo hoy
